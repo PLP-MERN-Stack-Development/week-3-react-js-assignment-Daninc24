@@ -70,7 +70,8 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 4. Style your application with Tailwind CSS
 5. Deploy your application and add the URL to your README.md
 
-## Resources
+## Resources![Screenshot 2025-06-19 004846](https://github.com/user-attachments/assets/8f382ba5-3b01-41d6-bfe3-9ae7980450a7)
+
 
 - [React Documentation](https://react.dev/)
 - [Tailwind CSS Documentation](https://tailwindcss.com/docs)
